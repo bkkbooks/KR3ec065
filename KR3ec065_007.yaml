@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ec065/jc/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷七人部胎衣味鹹氣平入足厥陰肝經補虛傷益氣血胎衣治男女虛勞說起丹溪胎妊化生賴夫精氣不關衣胞成人胎衣枯槁精氣無存此珠玉之蚌璞無用者耳而下士庸工以此治虛勞愚矣其所妄作河車大造諸丸用地黃黃柏龜板天冬瀉火伐陽辭人近鬼禍世戕生毒虐千古痛念死者此恨無終也人中白味鹹性寒入手少陰心足太陽膀胱經清心瀉火涼血止衄人中白鹹寒瀉火治鼻衄口瘡牙疳喉痹之證即人溺澄清白濁下凝者庸工以法曬煉而為秋石妄作各種丹丸瀉火伐陽以夭人命甚可惡也人中黃性寒入手少陰心足少陽膽經清瘟疫止熱狂人中黃寒涼瀉火治溫熱誕狂即糞清也名黃龍湯乃庸工習用之物甚不足取乳汁味甘性涼入手太陰肺足太陰脾足厥陰肝經清肺除煩滋肝潤燥乳汁以肝血化於肺氣即朱汞變為白金養育嬰兒滋生氣血全賴夫此內傷虛勞為小兒熱吮極佳非尋常草木所能及也一離人身溫氣稍減但存冷汁其質寒滑滋潤絶無補益血得氣化溫變為肅暖服不熱冷飲則涼潤肺滋肝是其長耳抑陰扶陽非所能也至乳酥乳酪之類冷食寒飲極損中氣惟塞外西方之民脾胃溫燥乃為相宜陽虧土濕切當遠之噎膈濕旺之病朱丹溪以為燥證而用乳酪濕滋土敗其死更速點眼病甚良解食牛肉中毒
+  hash: sha256:9a7074dc662d35e7aeccda663747a08b9405ef45690b372ec12714d381961d73
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec065_jc_007-d9.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ec065_jc_007-d9d2, level: 2, head_text: 人部}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ec065_jc_007-d9.d2.h1s1}
+  - {type: 'tls:div-end', offset: 459, content: '', id: KR3ec065_jc_007-d9d2}
+metadata:
+  title: 玉楸藥解
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec065.xml
+hash: sha256:8535771d83aec374e0277825e3603cdfa1aeece4f9c5cfb47fee532d55b038f5

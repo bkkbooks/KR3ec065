@@ -1,0 +1,220 @@
+canonical_identifier: bkk:krp/KR3ec065/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ec065/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉楸藥解
+  identifiers:
+    krp: KR3ec065
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec065.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec065_000-jc.yaml, hash: 'sha256:fd8c6240d53d847e04ec62785e1135249dbc6e344ec39917e10dd47703231ecb'}
+  - {seq: 1, filename: KR3ec065_001-jc.yaml, hash: 'sha256:d3b1d5b826ff17241f7fe1d7f56f2336d68665991356d29530c36189a63c7319'}
+  - {seq: 2, filename: KR3ec065_002-jc.yaml, hash: 'sha256:ff591761dd32eadabf68b26302e91c7f8ea1b291712160d4f2df312dd251d3a0'}
+  - {seq: 3, filename: KR3ec065_003-jc.yaml, hash: 'sha256:fd1067108e4c629f8e6cf0cf87a3d3e3f0d2788f0f1a485114abb5bf43340ecd'}
+  - {seq: 4, filename: KR3ec065_004-jc.yaml, hash: 'sha256:c1d0930d52d5b592f8229df59fc2d8c51b1fa1bbbafc9ba3e516158eb98de295'}
+  - {seq: 5, filename: KR3ec065_005-jc.yaml, hash: 'sha256:b925aaf18c6494ad8df37a647f03b5f79c4a897d388c6ce601c9dde24e53af97'}
+  - {seq: 6, filename: KR3ec065_006-jc.yaml, hash: 'sha256:c5b53322de6e44200a86b78ee6ef6008c440d8ee60b6c141532cdc86180a915b'}
+  - {seq: 7, filename: KR3ec065_007-jc.yaml, hash: 'sha256:23ce8e85926d1ba3eb05a65e2daa9c5c5bcc052c7dc61958516c8ed918ae02b4'}
+  - {seq: 8, filename: KR3ec065_008-jc.yaml, hash: 'sha256:66f0f4c129cf8dd05c0099ca2ef70781f9e0fae89b8906efb86c3099f318f737'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec065_000-jc.markers.yaml, hash: 'sha256:502d326323289c4a0ae7a766902772b16e552f3a4372fb362ca01c50d72641ea'}
+  - {seq: 1, role: markers, filename: assets/KR3ec065_001-jc.markers.yaml, hash: 'sha256:4b582cb3b44c7c5f0d215bd229355b744507bf5f3a43b4e4f6e688042b5373d6'}
+  - {seq: 2, role: markers, filename: assets/KR3ec065_002-jc.markers.yaml, hash: 'sha256:2a5b21d68264292f5727af8c40ff8e26dd517f495cd8f17344c5c005bf9fcb2d'}
+  - {seq: 3, role: markers, filename: assets/KR3ec065_003-jc.markers.yaml, hash: 'sha256:1cb2c6b820de25c2cd8ba01a1b5217a611e79ff400375ed8e60da0aaa602f342'}
+  - {seq: 4, role: markers, filename: assets/KR3ec065_004-jc.markers.yaml, hash: 'sha256:faac0b3f61995d9f17bbdbd8a7d093a32a23a1de65bc623a1b0c601a76027e39'}
+  - {seq: 5, role: markers, filename: assets/KR3ec065_005-jc.markers.yaml, hash: 'sha256:fddb97061d064ccc9ee898b62eb162f9709eec527cbc86c7b51a89fc6adb12df'}
+  - {seq: 6, role: markers, filename: assets/KR3ec065_006-jc.markers.yaml, hash: 'sha256:1c955227d419ba6e5666ae006ebc769676d7b016ffb0d6c2a4df8531ab171cbe'}
+  - {seq: 7, role: markers, filename: assets/KR3ec065_007-jc.markers.yaml, hash: 'sha256:6a625dd5b1a4f6a807a52d3d2fb9de19523e0ce7bde7063d9cdc73e60afd9efe'}
+  - {seq: 8, role: markers, filename: assets/KR3ec065_008-jc.markers.yaml, hash: 'sha256:b265fba45b0a8221eb84f744171b726b17bf8aaf0ef6b4be8f41c5c2f656e3d6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec065_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 464
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec065_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8073
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec065_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 8073
+  label: 草部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec065_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3706
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ec065_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 3706
+  label: 木部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec065_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2737
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec065_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 2737
+  label: 金石部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec065_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 2853
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ec065_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 2293
+  label: 果部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec065_jc_004-d6d3
+    span:
+    - body
+    - 2293
+    - 2853
+  label: 附谷菜部
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ec065_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1747
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ec065_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 1747
+  label: 禽獸部
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ec065_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2843
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ec065_jc_006-d8d2
+    span:
+    - body
+    - 2
+    - 2843
+  label: 鱗介魚蟲部
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ec065_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 459
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ec065_jc_007-d9d2
+    span:
+    - body
+    - 2
+    - 459
+  label: 人部
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ec065_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 637
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ec065_jc_008-d10d2
+    span:
+    - body
+    - 2
+    - 637
+  label: 雜類部
+  type: section
+  level: 2
+hash: sha256:534710ad8f1751b829e9bf31aee4828091056d289705cdca850ce4868b17e8ab
